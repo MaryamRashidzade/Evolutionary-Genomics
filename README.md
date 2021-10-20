@@ -1,1 +1,1 @@
-# Evolutionary-Genomics and bioinformatics
+# Evolutionary-Genomics and Bioinformatics
